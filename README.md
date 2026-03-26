@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepu Pandey</h1>
+
 <h3 align="center">🚀 Backend Developer | Java & Spring Boot | Open Source Contributor</h3>
 
 <p align="center">
@@ -8,38 +9,31 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Student (CGPA: 8.5)
-- 💡 Passionate about backend systems & scalable applications
-- 🔥 Consistent DSA learner & problem solver
-- 🌱 Currently learning **Spring Boot, System Design & Cloud**
+
+Backend-focused developer with a strong interest in building scalable and efficient systems.  
+Currently working on an AI-driven bio-waste management solution while contributing to open-source projects.  
+Focused on clean architecture, problem-solving, and continuously improving backend performance and system design.
 
 ---
 
-### 🚀 Current Work
-- 🔭 Working on: **Bio-Waste AI Management System**  
+### 🚀 Current Focus
+
+- 🔭 **Bio-Waste AI Management System**  
   👉 https://github.com/Deepupandey-ui/bio-waste-ai  
 
-- 👯 Collaborating on: **Open Source @ Codobar**  
+- 🤝 Open Source @ Codobar  
   👉 https://github.com/codobar/codo-zenzo-fe-ms1  
 
-- 🤝 Seeking help in:  
-  **Advanced Backend | Docker | Cloud Deployment**
+- 🌱 Learning: **Spring Boot, System Design, Docker & Cloud**  
+- 🎯 Goal: **Build scalable backend systems**
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 💻 Languages
-`Java` `C` `Python` `JavaScript`
-
-#### ⚙️ Backend
-`Spring Boot` `JDBC` `Servlets` `Node.js`
-
-#### 🗄️ Database
-`MySQL` `SQL`
-
-#### ☁️ DevOps & Tools
-`Docker` `Git` `GitHub` `Linux`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,python,c,mysql,docker,git,linux&perline=5" />
+</p>
 
 ---
 
@@ -60,10 +54,11 @@
 ---
 
 ### 🏆 Achievements
-- 🧠 160+ Days Coding Streak (DSA)
-- 🏆 Smart India Hackathon Participant
-- 🎯 Open Source Contributor @ Codobar
-- 📚 Taught Physics & Value Education (3 Months)
+
+- 🧠 160+ Days Coding Streak (DSA)  
+- 🏆 Smart India Hackathon Participant  
+- 🎯 Open Source Contributor @ Codobar  
+- 📚 Teaching Experience (3 Months)
 
 ---
 
@@ -77,17 +72,25 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepupandey-ui/Deepupandey-ui/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ### ✨ Fun Fact
-> "I don't just write code, I build solutions 🚀"
+
+> I don’t just write code, I build systems 🚀
 
 ---
 
 ### 👀 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepupandey-ui&label=Profile%20views&color=blue&style=flat" />
 </p>
