@@ -77,7 +77,9 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepupandey-ui/Deepupandey-ui/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ### ✨ Fun Fact
