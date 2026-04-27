@@ -21,7 +21,7 @@ Focused on clean architecture, problem-solving, and continuously improving backe
 - 🔭 **Bio-Waste AI Management System**  
   👉 https://github.com/Deepupandey-ui/bio-waste-ai  
 
-- 🤝 Open Source @ Codobar  
+- 🤝 Open Source Contributes 
   👉 https://github.com/codobar/codo-zenzo-fe-ms1 , https://github.com/Deepupandey-ui/appinventor-sources/tree/fix-screen-dropdown-caption 
 
 - 🌱 Learning: **Spring Boot, System Design, Docker & Cloud**  
